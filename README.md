@@ -1,8 +1,4 @@
-<h2 align="center"> 🦄 About Me </h2>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imkuroneko&label=Vistas+del+perfil&color=blueviolet&style=plastic"/> </p>
 
-<br><br>
 
 <h2 align="center"> 🌐 Socials </h2>
 <p align="center">
