@@ -2,9 +2,9 @@
 
 <h2 align="center"> 🌐 Socials </h2>
 <p align="center">
-    <a target="_blank" href="https://instagram.com/im_kuroneko"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+    <a target="_blank" href="https://www.instagram.com/castee27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
     &nbsp;
-    <a target="_blank" href="https://twitch.tv/im_kuroneko"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
+    <a target="_blank" href="https://www.twitch.tv/castee27"><img alt="Twitch" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white"/></a>
     &nbsp;
 </p>
 
