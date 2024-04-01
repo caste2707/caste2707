@@ -22,14 +22,6 @@
 
 <br><br>
 
-<h2 align="center"> 📊 GitHub Stats </h2>
-<p align="center">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true"/> &nbsp;
-    <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imkuroneko&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-</p>
 
-<br><br><br>
 
-<p align="center">
-    <img width="10%" src="https://raw.githubusercontent.com/imkuroneko/imkuroneko/main/kuroneko.png">
-</p>
+
